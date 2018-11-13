@@ -7,7 +7,7 @@
 		<parameter name="browser" value="chrome" />
     <classes>
     <class name="com.yosi.testscript.Desktop_Appoinment_Type1"/>
-       <class name="com.yosi.testscript.Patient_Info_TC"/>
+       <!-- <class name="com.yosi.testscript.Patient_Info_TC"/>
      <class name="com.yosi.testscript.Guantor_Info_TC"/> 
       <class name="com.yosi.testscript.Insurance_Page_TC"/>
       <class name="com.yosi.testscript.Patient_AddInfo_TC"/>
@@ -16,7 +16,7 @@
        <class name="com.yosi.testscript.Patient_RxInfo_TC"/>
        <class name="com.yosi.testscript.Dynamic_Page_TC"/>
         <class name="com.yosi.testscript.Policy_Page_TC"/>
-       <class name="com.yosi.testscript.Signature_Page_TC"/> 
+       <class name="com.yosi.testscript.Signature_Page_TC"/>  -->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
